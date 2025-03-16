@@ -1,6 +1,6 @@
 # Data-Science-GESS---Group-Project
 Studies about Social Mobility and Education
-> Can we predic t future income?\
+> Can we predict future income?\
 > Explore how education levels influence economic mobility in different regions
 
 ## Datasets
