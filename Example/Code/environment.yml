@@ -1,0 +1,14 @@
+name: dss
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - xarray
+  - geopandas
+  - netcdf4
+  - matplotlib
+  - seaborn
+  - ipython
+  - jupyterlab
