@@ -1,0 +1,73 @@
+#########################################################################################################################################################################################
+
+[2010-2023]
+
+Shapefile           : https://www2.census.gov/geo/tiger
+
+DP02                : https://data.census.gov/table/ACSDP5Y2023.DP02?g=010XX00US$0500000&d=ACS+5-Year+Estimates+Data+Profiles&moe=false
+Socials             :
+
+DP03                : https://data.census.gov/table/ACSDP5Y2023.DP03?g=010XX00US$0500000&d=ACS+5-Year+Estimates+Data+Profiles&moe=false
+Economics           :
+
+DP04                : https://data.census.gov/table/ACSDP5Y2023.DP04?g=010XX00US$0500000&d=ACS+5-Year+Estimates+Data+Profiles&moe=false
+Housing             :
+
+DP05                : https://data.census.gov/table/ACSDP5Y2023.DP05?g=010XX00US$0500000&d=ACS+5-Year+Estimates+Data+Profiles&moe=false
+Demographics        :
+
+Taget               : 'Median household income ($)', 'Owner-occupied units [%]'
+
+    "Land area (km²)", "Water area (km²)", "Total population",
+    "Median age", "Male [%]", "18 years and over [%]",
+    "65 years and over [%]", "White [%]", "Black or African American [%]",
+    "American Indian and Alaska Native [%]", "Asian [%]",
+    "Hispanic or Latino [%]", "Total housing units",
+    "Homeowner vacancy rate [%]", "Rental vacancy rate [%]",
+    "Vacant housing units [%]", "Owner-occupied [%]",
+    "Housing units with a mortgage [%]",
+    "Owner costs <25% of income (with mortgage) [%]",
+    "Owner costs >=25% of income (with mortgage) [%]",
+    "Owner costs <25% of income (without mortgage) [%]",
+    "Owner costs >=25% of income (without mortgage) [%]",
+    "Gross rent <25% of income [%]", "Gross rent >=25% of income [%]",
+    "Mean travel time to work (min)", "Median household income ($)",
+    "All parents in family in labor force [%]",
+    "Median full-time earnings gender ratio (F/M) [%]",
+    "Civilian labor force [%]", "Armed Forces [%]", "Unemployment Rate [%]",
+    "Female civilian labor force [%]", "Commuting: individual car [%]",
+    "Commuting: public transport [%]", "Commuting: work from home [%]",
+    "Labor force by industry: agriculture, forestry, fishing, hunting, mining [%]",
+    "Labor force by industry: construction [%]",
+    "Labor force by industry: manufacturing [%]",
+    "Labor force by industry: wholesale trade [%]",
+    "Labor force by industry: retail trade [%]",
+    "Labor force by industry: transportation, warehousing, utilities [%]",
+    "Labor force by industry: information [%]",
+    "Labor force by industry: finance, insurance, real estate, rental, leasing [%]",
+    "Labor force by industry: professional, scientific, management, admin, waste management services [%]",
+    "Labor force by industry: education, health care, social assistance [%]",
+    "Labor force by industry: arts, entertainment, recreation, accommodation, food services [%]",
+    "Labor force by industry: other services [%]",
+    "Labor force by industry: public administration [%]",
+    "Health insurance coverage (noninstitutionalized) [%]",
+    "Under 18 years poverty [%]", "18 to 64 years poverty [%]",
+    "65 years and over poverty [%]", "Total households",
+    "Households: married-couple [%]", "Households: Male (no spouse) [%]",
+    "Households: Female (no spouse) [%]", "Education: <9th grade [%]",
+    "Education: 9th-12th (no diploma) [%]",
+    "Education: high school graduate [%]",
+    "Education: some college (no degree) [%]",
+    "Education: associate's degree [%]", "Education: bachelor's degree [%]",
+    "Education: graduate or professional degree [%]",
+    "Education: high school graduate or higher [%]",
+    "Education: bachelor's degree or higher [%]",
+    "Moved: different house [%]", "Moved: within U.S. [%]",
+    "Moved: different county [%]", "Moved: different state [%]",
+    "Foreign-born [%]", "Foreign-born: naturalized [%]",
+    "Limited English speakers [%]", "Households: with computer [%]",
+    "Households: with broadband [%]" 74
+
+'Households: with computer [%]'                             2017-2023
+'Households: with broadband [%]'                            2017-2023
+'Health insurance coverage (noninstitutionalized) [%]'      2012-2023
