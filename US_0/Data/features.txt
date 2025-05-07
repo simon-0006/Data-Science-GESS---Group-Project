@@ -16,7 +16,7 @@ Housing             :
 DP05                : https://data.census.gov/table/ACSDP5Y2023.DP05?g=010XX00US$0500000&d=ACS+5-Year+Estimates+Data+Profiles&moe=false
 Demographics        :
 
-Taget               : 'Median household income ($)', 'Owner-occupied units [%]'
+Taget               : 'Median household income ($)'
 
     "Land area (km²)", "Water area (km²)", "Total population",
     "Median age", "Male [%]", "18 years and over [%]",
