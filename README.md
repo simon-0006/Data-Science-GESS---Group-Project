@@ -18,5 +18,5 @@ Regression model to predict income based on education level, geographic region, 
 What factors improve or hinder social mobility?
 
 ## Color palette 
-["264653","2a9d8f","e9c46a","f4a261","e76f51"]
-[Link to coolors palette](https://coolors.co/264653-2a9d8f-e9c46a-f4a261-e76f51)
+["4373c3","2a9d8f","e9c46a","f4a261","e76f51"]
+[[Link to coolors palette](https://coolors.co/264653-2a9d8f-e9c46a-f4a261-e76f51)](https://coolors.co/264653-2a9d8f-e9c46a-f4a261-e76f51)
