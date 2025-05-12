@@ -1,0 +1,106 @@
+#categorical features
+
+SEX = {"Male":1, "Female":2}
+
+RACE = {
+        "White":1, 
+        "Black":2, 
+        "American Indian": 3, 
+        "Chinese": 4,
+        "Japanese": 5,
+        "Other Asian": 6,
+        "Two major races": 8,
+        "Three or more major races": 9
+        }
+
+EDUC = {
+        "Nursey school to grade 4": 1,
+        "Grade 5,6,7 or 8": 2,
+        "Grade 9": 3,
+        "Grade 10": 4,
+        "Grade 11": 5,
+        "Grade 12": 6,
+        "1 year of college": 7,
+        "2 years of college": 8,
+        "3 years of college": 9,
+        "4 years of college": 10,
+        "5+ years of college": 11
+        }
+
+OCC = {
+    "Management, Business, and Financial Occupations": list(range(10, 960 + 1)),
+    "Computer, Engineering, and Science Occupations": list(range(1005, 1980 + 1)),
+    "Education, Legal, Community Service, Arts, and Media": list(range(2001, 2965 + 1)),
+    "Healthcare Practitioners and Technical": list(range(3000, 3550 + 1)),
+    "Service Occupations": list(range(3601, 4655 + 1)),
+    "Sales and Related Occupations": list(range(4700, 4965 + 1)),
+    "Office and Administrative Support": list(range(5000, 5940 + 1)),
+    "Farming, Fishing, and Forestry": list(range(6005, 6130 + 1)),
+    "Construction and Extraction": list(range(6200, 6950 + 1)),
+    "Installation, Maintenance, and Repair": list(range(7000, 7640 + 1)),
+    "Production Occupations": list(range(7700, 8990 + 1)),
+    "Transportation and Material Moving": list(range(9005, 9760 + 1)),
+    "Military Occupations": list(range(9800, 9830 + 1)),
+}
+
+PWSTATE2 = {
+    1: "Alabama",
+    2: "Alaska",
+    4: "Arizona",
+    5: "Arkansas",
+    6: "California",
+    8: "Colorado",
+    9: "Connecticut",
+    10: "Delaware",
+    11: "District of Columbia",
+    12: "Florida",
+    13: "Georgia",
+    15: "Hawaii",
+    16: "Idaho",
+    17: "Illinois",
+    18: "Indiana",
+    19: "Iowa",
+    20: "Kansas",
+    21: "Kentucky",
+    22: "Louisiana",
+    23: "Maine",
+    24: "Maryland",
+    25: "Massachusetts",
+    26: "Michigan",
+    27: "Minnesota",
+    28: "Mississippi",
+    29: "Missouri",
+    30: "Montana",
+    31: "Nebraska",
+    32: "Nevada",
+    33: "New Hampshire",
+    34: "New Jersey",
+    35: "New Mexico",
+    36: "New York",
+    37: "North Carolina",
+    38: "North Dakota",
+    39: "Ohio",
+    40: "Oklahoma",
+    41: "Oregon",
+    42: "Pennsylvania",
+    44: "Rhode Island",
+    45: "South Carolina",
+    46: "South Dakota",
+    47: "Tennessee",
+    48: "Texas",
+    49: "Utah",
+    50: "Vermont",
+    51: "Virginia",
+    53: "Washington",
+    54: "West Virginia",
+    55: "Wisconsin",
+    56: "Wyoming",
+    72: "Puerto Rico",
+    81: "Europe",
+    83: "Other Asia, n.s. (2003-2005 ACS); South Central, South East, and Western Asia (2000-2002 ACS)",
+    84: "Mexico",
+    85: "Other Americas",
+    86: "Other, n.e.c."
+}
+
+parent_educ = EDUC
